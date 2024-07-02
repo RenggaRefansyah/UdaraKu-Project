@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "674059779305",
+    "firebase_url": "https://udarakuiot-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "udarakuiot",
+    "storage_bucket": "udarakuiot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674059779305:android:1f5d1abf7942dd1ee30478",
+        "android_client_info": {
+          "package_name": "com.example.udaraku"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2HxvTyuIEc-lxWv9lYIQ2GrqSrRqoouA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
